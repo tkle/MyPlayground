@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Playground</string>
+    <string name="textViewTitle">Assignment 3</string>
+    <string name="textViewName">Name</string>
+    <string name="textViewCheckbox">Check boxes</string>
+    <string name="checkBox1">Check box 1</string>
+    <string name="checkBox2">Check box 2</string>
+    <string name="button1">Button</string>
+    <string name="toggleButton1">Toggle button</string>
+    <string name="switch1">Enable/Disable</string>
+    <string name="radioButton1">Radio button 1</string>
+    <string name="radioButton2">Radio button 2</string>
+    <string name="ucsdExtensionLogo">UCSD Extension logo</string>
+</resources>
